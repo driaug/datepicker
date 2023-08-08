@@ -10,7 +10,7 @@ export default function Home() {
     layout
       className={`flex min-h-screen flex-col items-center justify-center bg-spring-wood-100 space-y-3 ${lora.className}`}
     >
-      <div className='text-center'>
+      <div className='text-center p-3'>
         <h1 className='font-semibold text-4xl text-neutral-800'>
           Datepicker
         </h1>
